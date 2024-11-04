@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*444*/
 void d(int *n, int len )
 {
    for(int i=0; i<len; i++)
